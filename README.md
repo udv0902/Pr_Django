@@ -1,1 +1,1 @@
-# Projecr_Django
+# Pr_Django
